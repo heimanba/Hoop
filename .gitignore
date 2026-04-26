@@ -1,0 +1,9 @@
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+Config/Secrets.xcconfig
+.DS_Store
+.env
+.superpowers
+promo/

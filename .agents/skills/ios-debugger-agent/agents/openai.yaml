@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hoop iOS Debugger"
+  short_description: "Build, launch, screenshot, and debug Hoop on Simulator"
+  default_prompt: "Use $ios-debugger-agent to build and launch Hoop with scripts/build-and-launch.sh, capture a screenshot, and summarize any runtime issues."
